@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "wlhtsz-2024"
+    "OrganizationName": "Hello",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/KnowRailway/classisland-wlhtsz-2024/newmain/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/KnowRailway/classisland-wlhtsz-2024/newmain/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/KnowRailway/classisland-wlhtsz-2024/newmain/subjects.json",
+        "Version": 1
+    }
 }
